@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DATA SCIENCE\\\uD83D\uDD30 Beginner \uD83D\uDD30\\Back_End\\Repository pattern\\project\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{624E6590-1666-4FFE-A536-2D00EEA021D3}|TaskManagement\\TaskManagement.csproj|e:\\data science\\\uD83D\uDD30 beginner \uD83D\uDD30\\back_end\\repository pattern\\project\\taskmanagement\\taskmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{624E6590-1666-4FFE-A536-2D00EEA021D3}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E6590-1666-4FFE-A536-2D00EEA021D3}|TaskManagement\\TaskManagement.csproj|e:\\data science\\\uD83D\uDD30 beginner \uD83D\uDD30\\back_end\\repository pattern\\project\\taskmanagement\\taskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E6590-1666-4FFE-A536-2D00EEA021D3}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBC9C09-0836-46D8-AC36-B64EC33E864A}|RP.EF\\TaskManagement.EF.csproj|e:\\data science\\\uD83D\uDD30 beginner \uD83D\uDD30\\back_end\\repository pattern\\project\\taskmanagement\\rp.ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBC9C09-0836-46D8-AC36-B64EC33E864A}|RP.EF\\TaskManagement.EF.csproj|solutionrelative:rp.ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E6590-1666-4FFE-A536-2D00EEA021D3}|TaskManagement\\TaskManagement.csproj|e:\\data science\\\uD83D\uDD30 beginner \uD83D\uDD30\\back_end\\repository pattern\\project\\taskmanagement\\taskmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E6590-1666-4FFE-A536-2D00EEA021D3}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E6590-1666-4FFE-A536-2D00EEA021D3}|TaskManagement\\TaskManagement.csproj|e:\\data science\\\uD83D\uDD30 beginner \uD83D\uDD30\\back_end\\repository pattern\\project\\taskmanagement\\taskmanagement\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E6590-1666-4FFE-A536-2D00EEA021D3}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 270,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DATA SCIENCE\\\uD83D\uDD30 Beginner \uD83D\uDD30\\Back_End\\Repository pattern\\project\\TaskManagement\\TaskManagement\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Program.cs",
+              "ToolTip": "E:\\DATA SCIENCE\\\uD83D\uDD30 Beginner \uD83D\uDD30\\Back_End\\Repository pattern\\project\\TaskManagement\\TaskManagement\\Program.cs",
+              "RelativeToolTip": "TaskManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:54:41.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\DATA SCIENCE\\\uD83D\uDD30 Beginner \uD83D\uDD30\\Back_End\\Repository pattern\\project\\TaskManagement\\RP.EF\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RP.EF\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\DATA SCIENCE\\\uD83D\uDD30 Beginner \uD83D\uDD30\\Back_End\\Repository pattern\\project\\TaskManagement\\RP.EF\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RP.EF\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:20:35.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DATA SCIENCE\\\uD83D\uDD30 Beginner \uD83D\uDD30\\Back_End\\Repository pattern\\project\\TaskManagement\\TaskManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagement\\appsettings.json",
+              "ToolTip": "E:\\DATA SCIENCE\\\uD83D\uDD30 Beginner \uD83D\uDD30\\Back_End\\Repository pattern\\project\\TaskManagement\\TaskManagement\\appsettings.json",
+              "RelativeToolTip": "TaskManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T18:47:27.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\DATA SCIENCE\\\uD83D\uDD30 Beginner \uD83D\uDD30\\Back_End\\Repository pattern\\project\\TaskManagement\\TaskManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\DATA SCIENCE\\\uD83D\uDD30 Beginner \uD83D\uDD30\\Back_End\\Repository pattern\\project\\TaskManagement\\TaskManagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TaskManagement\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:00:54.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "E:\\DATA SCIENCE\\\uD83D\uDD30 Beginner \uD83D\uDD30\\Back_End\\Repository pattern\\project\\TaskManagement\\TaskManagement\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Controllers\\ProjectController.cs",
+              "ToolTip": "E:\\DATA SCIENCE\\\uD83D\uDD30 Beginner \uD83D\uDD30\\Back_End\\Repository pattern\\project\\TaskManagement\\TaskManagement\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "TaskManagement\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:45:39.121Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

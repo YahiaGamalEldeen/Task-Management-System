@@ -1,0 +1,17 @@
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\bin\Debug\net6.0\TaskManagement.EF.deps.json
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\bin\Debug\net6.0\TaskManagement.EF.runtimeconfig.json
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\bin\Debug\net6.0\TaskManagement.EF.dll
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\bin\Debug\net6.0\TaskManagement.EF.pdb
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\bin\Debug\net6.0\TaskManagement.core.dll
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\bin\Debug\net6.0\TaskManagement.core.pdb
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\obj\Debug\net6.0\TaskManagement.EF.csproj.AssemblyReference.cache
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\obj\Debug\net6.0\TaskManagement.EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\obj\Debug\net6.0\TaskManagement.EF.AssemblyInfoInputs.cache
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\obj\Debug\net6.0\TaskManagement.EF.AssemblyInfo.cs
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\obj\Debug\net6.0\TaskManagement.EF.csproj.CoreCompileInputs.cache
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\obj\Debug\net6.0\TaskMana.2AE52DB7.Up2Date
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\obj\Debug\net6.0\TaskManagement.EF.dll
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\obj\Debug\net6.0\refint\TaskManagement.EF.dll
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\obj\Debug\net6.0\TaskManagement.EF.pdb
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\obj\Debug\net6.0\TaskManagement.EF.genruntimeconfig.cache
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.EF\obj\Debug\net6.0\ref\TaskManagement.EF.dll

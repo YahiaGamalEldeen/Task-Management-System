@@ -1,0 +1,14 @@
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.core\bin\Debug\net6.0\TaskManagement.core.deps.json
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.core\bin\Debug\net6.0\TaskManagement.core.runtimeconfig.json
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.core\bin\Debug\net6.0\TaskManagement.core.dll
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.core\bin\Debug\net6.0\TaskManagement.core.pdb
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.core\obj\Debug\net6.0\TaskManagement.core.csproj.AssemblyReference.cache
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.core\obj\Debug\net6.0\TaskManagement.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.core\obj\Debug\net6.0\TaskManagement.core.AssemblyInfoInputs.cache
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.core\obj\Debug\net6.0\TaskManagement.core.AssemblyInfo.cs
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.core\obj\Debug\net6.0\TaskManagement.core.csproj.CoreCompileInputs.cache
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.core\obj\Debug\net6.0\TaskManagement.core.dll
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.core\obj\Debug\net6.0\refint\TaskManagement.core.dll
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.core\obj\Debug\net6.0\TaskManagement.core.pdb
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.core\obj\Debug\net6.0\TaskManagement.core.genruntimeconfig.cache
+E:\DATA SCIENCE\🔰 Beginner 🔰\Back_End\Repository pattern\project\TaskManagement\RP.core\obj\Debug\net6.0\ref\TaskManagement.core.dll
